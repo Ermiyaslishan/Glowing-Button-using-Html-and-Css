@@ -17,4 +17,4 @@ This project demonstrates how to create a glowing button effect using only HTML 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/glowing-button.git
+   git clone https://github.com/Ermiyaslishan/Glowing-Button-using-Html-and-Css.git
